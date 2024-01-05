@@ -1,0 +1,15 @@
+.simple-masonry-gallery {
+    display: flex;
+}
+
+.simple-masonry-gallery .simple-masonry-column {
+    height: min-content;
+    margin-right: 8px;
+}
+
+.simple-masonry-gallery  .simple-masonry-item {
+    max-width: 100%;
+    width: 100%;
+    margin: 0px 8px 8px 0px;
+    box-sizing: border-box;
+}
